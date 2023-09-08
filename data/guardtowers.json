@@ -1,4 +1,1 @@
-{
-  "guardtowers": [],
-  "USER_DO_NOT_EDIT": "This file will be overwritten by the map generator. You should not make any changes to this file."
-}
+{"guardtowers":[{"creator":"Ranulf","borders":[1934,2462,2034,2562],"x":1984,"y":2512,"ql":"40,21","dmg":"0,00"}]}
